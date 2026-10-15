@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 I've developed [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/nextomics/nextdenovo/total?label=NextDenovo)](https://github.com/Nextomics/NextDenovo) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/nextomics/nextpolish/total?label=NextPolish)](https://github.com/Nextomics/NextPolish) [![Conda Downloads](https://img.shields.io/conda/dn/bioconda/nextpolish2?label=NextPolish2)](https://github.com/Nextomics/NextPolish2) [![Conda Downloads](https://img.shields.io/conda/dn/bioconda/cycsim?label=cycsim)](https://github.com/BioEarthDigital/cycsim)
-, and have a lot of experience in T2T (complex regions or sex chromosomes), homologous polyploid and large genome assembly, and chromosome anchoring and phasing (Hi-C/Pore-C).
+, and have extensive experience in long-read sequencing, genome assembly, and bioinformatics algorithm development. My work focuses on developing statistical and AI-based algorithms for genomic data analysis. I also work on deep learning and large-scale genomic foundation models.
